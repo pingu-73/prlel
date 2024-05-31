@@ -1,0 +1,12 @@
+[package]
+name = "prlel"
+version = "0.1.0"
+edition = "2021"
+authors = ["Dikshant <dikshant.073@gmail.com>"]
+description = "HPX parallel function demo"
+
+[dependencies]
+cxx = "1.0"
+
+[build-dependencies]
+cxx-build = "1.0"
